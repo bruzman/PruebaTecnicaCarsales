@@ -1,0 +1,6 @@
+@PruebaTecnicaCarsales_HostAddress = http://localhost:32769
+
+GET {{PruebaTecnicaCarsales_HostAddress}}/Episodes/
+Accept: application/json
+
+###
